@@ -1,5 +1,6 @@
 <template>
   <div>
+    ------------------------------------------------------------------------
     <div class="vueFont">Hello vote vue</div>
     <wired-input ref="aInput" placeholder="Enter name"></wired-input>
     <wired-button @click="handleClick">Click Me</wired-button>
